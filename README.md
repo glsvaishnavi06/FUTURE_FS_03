@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,40 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# GVRK Bliss Bakery 🍰
+
+A responsive bakery website built using React.
+
+---
+
+## 🌟 Features
+- Home, About, Services, Menu, Gallery, Contact sections
+- Smooth scrolling navigation
+- Image-based product showcase
+- Responsive design for mobile and desktop
+- Clean and modern UI
+
+---
+
+## 🛠️ Tech Stack
+- React JS
+- HTML5
+- CSS3
+
+---
+
+## 🎯 Project Purpose
+This project was developed as part of a Full Stack Web Development internship task.  
+The goal was to build a real-world business website for a local bakery with a professional UI and user-friendly experience.
+
+---
+
+## 👩‍💻 Author
+GVRK Bliss Bakery Internship Project
+
+---
+
+## 🔗 Links
+- GitHub Repository: http://localhost:3000
+>>>>>>> 327af1ebbb6dcfe15776ac77fc3cec283e0b8db5
